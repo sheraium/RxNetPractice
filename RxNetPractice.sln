@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp19", "ConsoleApp1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp20", "ConsoleApp20\ConsoleApp20.csproj", "{A172674F-A5C9-4628-B5DF-5B82BD35A78A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStockerTests", "ConsoleAppStockerTests\ConsoleAppStockerTests.csproj", "{BF7047CD-361B-4148-9A69-A41A8288083A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStockerTests", "ConsoleAppStockerTests\ConsoleAppStockerTests.csproj", "{BF7047CD-361B-4148-9A69-A41A8288083A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStockerUsingAsync", "ConsoleAppStockerUsingAsync\ConsoleAppStockerUsingAsync.csproj", "{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{BF7047CD-361B-4148-9A69-A41A8288083A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7047CD-361B-4148-9A69-A41A8288083A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7047CD-361B-4148-9A69-A41A8288083A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

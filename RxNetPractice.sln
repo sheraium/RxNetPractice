@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStockerTests", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStockerUsingAsync", "ConsoleAppStockerUsingAsync\ConsoleAppStockerUsingAsync.csproj", "{3E5C0A5B-AFBC-4F1D-9FE1-31BA308B7358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppIntervalAsync", "ConsoleAppIntervalAsync\ConsoleAppIntervalAsync.csproj", "{49E93B51-D8B4-430B-AB89-320068D9489D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppIntervalAsync", "ConsoleAppIntervalAsync\ConsoleAppIntervalAsync.csproj", "{49E93B51-D8B4-430B-AB89-320068D9489D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_MemoryLeak", "ConsoleApp_MemoryLeak\ConsoleApp_MemoryLeak.csproj", "{360608F2-08BE-48EB-8DD6-5B052702F1A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{49E93B51-D8B4-430B-AB89-320068D9489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E93B51-D8B4-430B-AB89-320068D9489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E93B51-D8B4-430B-AB89-320068D9489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360608F2-08BE-48EB-8DD6-5B052702F1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360608F2-08BE-48EB-8DD6-5B052702F1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360608F2-08BE-48EB-8DD6-5B052702F1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360608F2-08BE-48EB-8DD6-5B052702F1A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
